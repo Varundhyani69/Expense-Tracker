@@ -1,0 +1,13 @@
+.head {
+    text-align: left;
+}
+
+.history {
+    position: relative;
+    bottom: 50px;
+}
+
+.scroll {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
